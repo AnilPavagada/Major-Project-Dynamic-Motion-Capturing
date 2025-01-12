@@ -18,7 +18,9 @@ Dynamic Motion Capturing revolutionizes fitness exercise analysis by blending cu
 * 📏 Error Detection: Detects improper form, weak peak contractions, and misalignments.
 * 🌐 IoT Integration: Utilizes MPU6050 sensors for motion data capture.
 * 📊 Insights & Feedback: Detailed feedback on form, stability, and muscle engagement.
-* 🧩 Comprehensive Analysis: Combines visual and sensor data for deeper insights. 
+* 🧩 Comprehensive Analysis: Combines visual and sensor data for deeper insights.
+
+## 🛠️ Technologies Used  
 
 | **Technology**       | **Purpose**                                |  
 |-----------------------|--------------------------------------------|  
@@ -42,7 +44,7 @@ pip install mediapipe opencv-python numpy matplotlib
 ## 🔧 Steps to Run
 1. Clone the Repository:
 ```bash
-git clone https://github.com/your-username/dynamic-motion-capturing.git
+git clone https://github.com/AnilPavagada/Major-Project-Dynamic-Motion-Capturing.git
 cd dynamic-motion-capturing
 
 ```
